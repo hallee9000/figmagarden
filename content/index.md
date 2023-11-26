@@ -1,7 +1,5 @@
 ---
-title: Figma 小花园
-aliases:
-  - index
+title: Figma 数字花园
 ---
 
 - [[Figma 常见问题]]
