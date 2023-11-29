@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/leadream/figmagarden",
       Figma: "https://figma.com/@hallee",
+      Twitter: "https://x.com/hal__lee",
     },
   }),
 }

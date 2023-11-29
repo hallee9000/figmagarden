@@ -1,8 +1,7 @@
 ---
-url: /all-shortcuts
+title: 快捷键大全
 ---
-
-无意中搜到的一份 Figma 快捷键大全，但是没有 Mac 的，我补充了一下，这下应该全了。速速浏览一遍吧，肯定有你不知道的。
+无意中搜到的一份 [Figma 快捷键大全](https://defkey.com/figma-shortcuts)，但是没有 Mac 的，我补充了一下，这下应该全了。速速浏览一遍吧，肯定有你不知道的。
 
 ## 必备快捷键（9 个）
 
@@ -10,6 +9,8 @@ url: /all-shortcuts
 |---|---|---|
 |Ctrl + Shift + ?|Ctrl + Shift + ?|显示键盘快捷键|
 |Cmd + \\|Ctrl + \\|显示 / 隐藏侧边|
+|Cmd + Shift + \\|Ctrl + Shift + \\|显示 / 隐藏左侧边|
+|Option + L|Alt + L|折叠所有图层|
 |Ctrl + C|I|取色|
 |Cmd + /|Ctrl + /|打开菜单搜索|
 |Cmd + P|Ctrl + P|打开菜单搜索|
@@ -49,10 +50,9 @@ url: /all-shortcuts
 |Ctrl + P 或 Cmd + Option + Y|Ctrl + Alt + Y|像素预览设置|
 |Ctrl + G 或 Ctrl + Shift + 4|Ctrl + Shift + 4|显示 / 隐藏布局栅格|
 |Cmd + '|Ctrl + '|显示 / 隐藏像素栅格|
-|Cmd + \|Ctrl + \|显示 / 隐藏侧边|
+|Cmd + \\|Ctrl + \\|显示 / 隐藏侧边|
 |Cmd + .|Ctrl + .|显示 / 隐藏侧边|
-|Cmd + Shift + \|Alt + 1 + 2 + 4|显示 / 隐藏左侧边|
-|Cmd + Option + \|Ctrl + Alt + \|显示协作者光标|
+|Cmd + Option + \\|Ctrl + Alt + \\|显示协作者光标|
 |Option + 1|Alt + 1|左侧切换到图层面板|
 |Option + 2|Alt + 2|左侧切换到组件面板|
 |Option + 3|Alt + 3|打开团队库|
@@ -141,7 +141,6 @@ url: /all-shortcuts
 |Esc|Esc|取消选择项|
 |Cmd + 鼠标点击|Ctrl + 鼠标点击|选中最里层|
 |Cmd + 鼠标右击|Ctrl + 鼠标右击|显示图层菜单|
-|Option + L|Alt + L|收起图层|
 |Enter|Enter|展开图层并进入子级|
 |Shift + Enter|Shift + Enter|选中父级|
 |Tab|Tab|选中后面的相邻元素|
