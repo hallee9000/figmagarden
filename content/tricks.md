@@ -22,7 +22,7 @@ title: 小技巧
 
 ![[录屏2023-11-29 21.40.09.mp4]]
 
-## 可编辑的斜切视图 {#isometric-view}
+## 可编辑的斜切视图 ^isometric-view
 制作一个斜切视图，通过对 main 组件的修改来更新里面的内容。
 
 ![[isometric-view.mp4]]
