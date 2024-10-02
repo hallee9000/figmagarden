@@ -1,5 +1,5 @@
 {
-  "name": "@leadream/figmagarden",
+  "name": "@hallee9000/figmagarden",
   "description": "🌱 my figma digital garden",
   "private": true,
   "version": "4.1.1",
@@ -8,7 +8,7 @@
   "homepage": "https://figmagarden.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leadream/figmagarden.git"
+    "url": "https://github.com/hallee9000/figmagarden.git"
   },
   "scripts": {
     "check": "tsc --noEmit && npx prettier . --check",
