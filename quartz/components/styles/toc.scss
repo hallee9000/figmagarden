@@ -1,3 +1,25 @@
+.toc {
+  display: flex;
+  flex-direction: column;
+  &.desktop-only {
+    position: relative;
+    display: flex;
+    max-height: calc(100% - 180px);
+    &:after {
+      pointer-events: none;
+      content: "";
+      width: 100%;
+      height: 50px;
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      opacity: 1;
+      transition: opacity 0.3s ease;
+      background: linear-gradient(transparent 0px, var(--light));
+    }
+  }
+}
+
 button#toc {
   background-color: transparent;
   border: none;
@@ -28,8 +50,21 @@ button#toc {
 #toc-content {
   list-style: none;
   overflow: hidden;
-  max-height: none;
-  transition: max-height 0.5s ease;
+  overflow-y: auto;
+  max-height: 100%;
+  transition:
+    max-height 0.35s ease,
+    visibility 0s linear 0s;
+  position: relative;
+  visibility: visible;
+
+  &.collapsed {
+    max-height: 0;
+    transition:
+      max-height 0.35s ease,
+      visibility 0s linear 0.35s;
+    visibility: hidden;
+  }
 
   &.collapsed > .overflow::after {
     opacity: 0;
@@ -49,6 +84,10 @@ button#toc {
         opacity: 0.75;
       }
     }
+  }
+  > ul.overflow {
+    max-height: none;
+    width: 100%;
   }
 
   @for $i from 0 through 6 {
