@@ -3,9 +3,9 @@ tags:
   - 基础
 title: 常见问题（FAQ）
 ---
-## 在使用之前 {#before-using}
+## 在使用之前{#before-using}
 
-### Figma 如何收费？
+### Figma 如何收费？{#pricing}
 
 > **Figma 最新的收费策略见：[https://www.figma.com/pricing](https://www.figma.com/pricing/)**
 
@@ -19,18 +19,18 @@ Figma 以团队->项目->文件的结构来进行组织，其中“团队”分�
 
 **以我的经验来看，免费的基础版足够前期使用了，等功能都熟悉了再付费使用。如果免费版不够，可以要求公司购买专业版团队。希望大家尽量付费支持，这样 Figma 才能持续不断做出更好的功能。**
 
-### Figma 在哪下载呢？
+### Figma 在哪下载呢？{#downloads}
 
 你可以去[这里](https://www.figma.com/downloads/)下载客户端。
 
-### Figma 要怎么入门呢？
+### Figma 要怎么入门呢？{#how-to-get-started}
 推荐观看以下视频教程（任选其一即可）：
 
 - [我的系列教程](https://www.bilibili.com/video/BV1yK411c712)
 - [超能铜草帽的视频](https://space.bilibili.com/108104104/)
 - [官方视频教程](https://www.youtube.com/@Figma)
 
-### 有中文版吗？
+### 有中文版吗？{#chinese-version}
 
 官方没有，但你可以下载[月维的二次封装版](https://moonvy.com/figmaEX/)，不过每次更新都需要从这里重新下载。
 
