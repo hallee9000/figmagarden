@@ -11,7 +11,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
       <h2 class={classNames(displayClass, "page-title")}>
         <a href={baseDir}>{title}</a>
       </h2>
-      <a href="https://www.figma.com/community/plugin/1285971940276913396/heron-variable-tools" target="_blank" class="banner">
+      <a href="https://www.figma.com/community/plugin/1285971940276913396/heron-variable-tools" target="_blank" class={classNames(displayClass, 'banner')}>
         <img
           src={baseDir + "/static/Heron-variable-tools-logo.png"}
           alt="Heron variable tools icon"
