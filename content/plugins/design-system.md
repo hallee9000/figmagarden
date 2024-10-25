@@ -8,9 +8,10 @@ https://www.figma.com/community/plugin/801195587640428208
 
 ![[Pasted image 20241022093636.png]]
 
-## OkColor
-高级颜色选择器，支持一些[感知统一](https://bottosson.github.io/posts/oklab/)的颜色空间，比如 OkLCH、OkHSL、OkHSV 等。
+## Heron variable tools
 
-https://www.figma.com/community/plugin/1173638098109123591/okcolor
+这个插件可以帮你高效管理设计变量，支持导入导出、复制粘贴变量、从变量一键生成指南、批量编辑变量名等，可以在[这里](https://heronhq.com/variable-tools)了解更多。
 
-![[Pasted image 20241022093808.png]]
+https://www.figma.com/community/plugin/1285971940276913396/heron-variable-tools
+
+![[Pasted image 20241025084245.png]]

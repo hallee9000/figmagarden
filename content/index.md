@@ -2,11 +2,11 @@
 title: Figma 数字花园
 ---
 
-- [[figma/faq/index|FAQ]]
-- [[figma/tricks/index|使用技巧]]
+- [[faq/index|FAQ]]
+- [[tricks/index|使用技巧]]
 - [[all-shortcuts|快捷键大全]]
-- [[figma/plugins/index|推荐插件]]
-- [[figma/tools|工具]]
+- [[plugins/index|推荐插件]]
+- [[tools|工具]]
 - [[new-features|新功能]]
 
 ## Figmates

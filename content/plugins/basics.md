@@ -21,3 +21,10 @@ Figma 还不支持连接线，但是 FigJam 支持了，而且我们可以把 Fi
 https://www.figma.com/community/plugin/751821593330638172/simpleflow
 
 ![[Pasted image 20241022093617.png]]
+
+## 快速整理设计稿
+这个插件可以一键将你的设计稿按照网格或列的形式整理。
+
+https://www.figma.com/community/plugin/1428408550453241748/auto-arrange-organize-your-design
+
+![[Pasted image 20241025083646.png]]
