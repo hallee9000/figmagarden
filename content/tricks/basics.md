@@ -1,30 +1,25 @@
 ---
-title: 小技巧
+title: 基础技巧
 ---
-
-在这里记录一些使用小技巧，希望可以帮你早点下班。
-
-## 复制图层的属性到另一个图层
+## 复制图层的属性到另一个图层 {#copy-layers-properties}
 
 如果你要复制一个图层的所有属性（填充色、描边、投影等）到另一个图层，可以在选中图层后按快捷键，macOS 为 `Cmd+Option+C`，Windows 为 `Ctrl+Alt+C`。
-
-[[#^isometricview|Isometric View]]
 
 如果你想复制或剪切某几个属性，可以直接在右侧面板中选中该属性，按 `Cmd+C` 或 `Cmd+X`（Windows 为 `Ctrl+C` 或 `Ctrl+X`）复制。颜色、描边、效果都可以这么选，按住 `Cmd`（`Ctrl`）或 `Shift` 还可以选中多个。
 
 ![[e22c4c8b-6ef9-46cc-b548-2ee533c1adc6.mp4]]
 
-## 设置默认颜色
+## 设置默认颜色 {#set-default-color}
 当你想要在每一次新建图层时都使用某个颜色，可以这么做。先选中某个图层并设置好颜色，然后按下 `Cmd P` 唤出命令框，输入 Set default properties 找到它并执行，下次新建图层时就会是这个颜色啦。
 
 ![[录屏2023-11-29 21.13.04.mp4]]
 
-## 快速编辑多个文字图层
+## 快速编辑多个文字图层 {#quick-editing-text}
 编辑完一个文字图层之后，可以按 Tab 键跳到下一个文字图层进行编辑。
 
 ![[录屏2023-11-29 21.40.09.mp4]]
 
-## 可编辑的斜切视图 ^isometricview
+## 可编辑的斜切视图 {#isometricview}
 制作一个斜切视图，通过对 main 组件的修改来更新里面的内容。
 
 ![[isometric-view.mp4]]
