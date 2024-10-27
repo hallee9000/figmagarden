@@ -13,9 +13,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "tinylytics",
+      siteId: "-Jxf2Ebmoss-cZyZsbue"
     },
-    locale: "en-US",
+    locale: "zh-CN",
     baseUrl: "figmagarden.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
