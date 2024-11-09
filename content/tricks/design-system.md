@@ -14,3 +14,7 @@ tags:
 5. 回到 App 文件更新组件，这个组件就连接到转移的组件了。
 
 ![[move-component-to-another-page.mp4]]
+## 替换组件实例时保持自适应 {#keep-auto-layout-when-switch-variants}
+当我们的头像组件容器尺寸为固定（fixed）时，把它放在其他组件内，切换尺寸变体时，它的尺寸不会变化；我们可以把头像容器设置为自动布局的自适应内容（hug content），这样当我们切换变体时，它的尺寸就会变化了。
+
+![[nested-component.mp4]]

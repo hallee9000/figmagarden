@@ -23,3 +23,11 @@ https://www.figma.com/community/plugin/1285971940276913396/heron-variable-tools
 https://www.figma.com/community/plugin/1426841252851196012/pro-line-height
 
 ![[Pasted image 20241025095244.png]]
+
+## Peppercorn - The Perfect Type Scale
+
+根据预设的基准字号、变化比例，自动生成一套字体样式和变量，它还可以帮你生成对应的代码。
+
+https://www.figma.com/community/plugin/1324368566737768121/peppercorn-the-perfect-type-scale
+
+![[Pasted image 20241106094946.png]]

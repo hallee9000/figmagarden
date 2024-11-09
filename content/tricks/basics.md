@@ -23,3 +23,8 @@ title: 基础技巧
 制作一个斜切视图，通过对 main 组件的修改来更新里面的内容。
 
 ![[isometric-view.mp4]]
+
+## 拉伸元素自动切换到 fill {#stretch-element-automatically-switches-to-fill}
+拉伸自动布局容器内的元素时，当其宽度正好被拉伸到容器宽度时，会自动变为 fill。
+
+![[录屏2024-11-09 22.11.36.mp4]]
